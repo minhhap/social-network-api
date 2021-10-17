@@ -6,7 +6,10 @@ This is an API for a social network web application where users can share their 
 * IndexedDB 
 * Mongoose
 * MongoDB
-* Heroku
+
+## Installation
+* npm i to install dependencies
+* npm start to start the API
 
 ## GitHub Repo
 https://github.com/minhhap/social-network-api
