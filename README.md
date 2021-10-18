@@ -13,3 +13,6 @@ This is an API for a social network web application where users can share their 
 
 ## GitHub Repo
 https://github.com/minhhap/social-network-api
+
+## Demo Video
+https://youtu.be/BQ-NUp6_nXg
